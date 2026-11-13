@@ -1,4 +1,4 @@
-# Hi, I'm Fatjon 👋
+# Hi, I'm Fatjon 
 
 Data Science student at **FH St. Pölten** (Austria) with a background in software development and system administration.
 
