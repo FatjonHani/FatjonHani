@@ -18,8 +18,8 @@ Data Science student at **FH St. Pölten** (Austria) with a background in softwa
 
 **Data & ML:** Python · pandas · NumPy · scikit-learn · TensorFlow/Keras · Matplotlib · Seaborn · Jupyter  
 **Development:** Java · JavaScript/TypeScript · SQL · Git  
-**Systems:** Linux · Windows Server · Docker
+**Systems:** Linux · Windows
 
 ## Languages
 
-German · English
+German · Albanian · English
